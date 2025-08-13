@@ -2,7 +2,7 @@
 my first git repository demo
 <br>
 <br>
-auther = umerfarooqkorejashaab/raju bhai
+auther = umerfarooqkorejashaab/raju bhai#
 <br>
 name = numer farooq
 <br>
