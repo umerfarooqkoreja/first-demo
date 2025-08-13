@@ -2,5 +2,6 @@
 my first git repository demo
 <br>
 <br>
-auther = umerfarooqkorejashaab
+auther = umerfarooqkorejashaab/raju bhai
+
 
